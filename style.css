@@ -74,7 +74,7 @@ body{
     width: 100%;
     display: flex;
     justify-content: space-between;  
-    color: hsl(240, 6%, 50%);
+    color: hsl(238, 29%, 16%);
 }
 
 .collapsible:hover{
@@ -82,6 +82,7 @@ body{
 }
   
 .content {
+    color: hsl(240, 6%, 50%);
     padding: .1em 0;
     max-height: 0;
     overflow: hidden;
