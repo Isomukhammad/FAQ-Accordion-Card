@@ -26,7 +26,7 @@ body{
 }
 
 .card{
-    background-color: hsl(240, 5%, 91%);
+    background-color: #FFFFFF;
     border-radius: 1.5rem;
     width: 350px;
     display: flex;
